@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ojas356&theme=tokyonight&hide_border=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ojas356&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=ojas356&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ojas356&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
