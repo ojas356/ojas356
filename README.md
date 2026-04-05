@@ -37,9 +37,9 @@
 ---
 
 ## 📊 GitHub Stats
-![]([https://github-readme-stats-sigma-five.vercel.app/api?username=ojas356&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=ojas356&theme=tokyonight&hide_border=true))
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=ojas356&theme=tokyonight&hide_border=true)
 ![](https://streak-stats.demolab.com?user=ojas356&theme=tokyonight&hide_border=true)
-1[](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ojas356&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ojas356&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
